@@ -1,0 +1,51 @@
+.containerImage,
+.containerImage2,
+.containerImage3,
+.containerImage4 {
+  height: 55vw;
+  width: 100%;
+}
+
+
+#brahm {
+  width: 20%;
+  height: 20%;
+  position:absolute ;
+  top: 45vw;
+  left: 0vw;
+}
+
+#nagar {
+  width: 20%;
+  height: 20%;
+  position: absolute;
+  top: 100vw;
+  left: 0vw;
+}
+
+#pushp {
+  width: 20%;
+  height: 20%;
+  position: absolute;
+  top: 160vw;
+  left: 0vw;
+}
+
+#tala {
+  width: 20%;
+  height: 20%;
+  position: absolute;
+  top: 200vw;
+  left: 0vw;
+}
+
+
+
+
+#speech{
+    width: 40%;
+    height: 60%;
+    position: absolute;
+    top: 230vw;
+    left: -8vw;
+}
